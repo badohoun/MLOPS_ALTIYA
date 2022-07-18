@@ -17,6 +17,28 @@ Ce template vous permettra  deux choses :
 1. Mettre en place vos propres programmes d'apprentissage non supervisés 
 2. Exposer ses modèles sous forme d'une API 
 
+## Besoin du métier 
+
+Tout bon projet data nait d'un besoin métier .
+
+L'analyse de la personnalité du client est une analyse détaillée des clients idéaux(super clients)  d'une entreprise. 
+
+Il aide une entreprise à mieux comprendre ses clients 
+et leur permet de modifier plus facilement les produits en fonction des besoins, 
+des comportements et des préoccupations spécifiques des différents types de clients.
+
+L'analyse de la personnalité du client aide une entreprise 
+
+à modifier son produit en fonction de sa clientèle cible 
+
+à partir de différents types de segments de clientèle. 
+
+Par exemple, au lieu de dépenser de l'argent pour commercialiser un nouveau produit 
+
+auprès de chaque client de la base de données de l'entreprise, 
+
+une entreprise peut analyser quel segment de clientèle est le plus susceptible d'acheter le produit, 
+puis commercialiser le produit uniquement sur ce segment particulier.
 
 
 
