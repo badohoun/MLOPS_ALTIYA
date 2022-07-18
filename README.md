@@ -1,7 +1,11 @@
+L'apprentissage non supervisé est la deuxième branche la plus connue du Machine Learning .
+
+Deux des applications les plus  géniales de l'apprentissage non supervisé sont : 
+
 - Le clustering 
 - La réduction de dimension 
 
-Ce template qui vous permettra  deux choses : 
+Ce template vous permettra  deux choses : 
 
 1. Mettre en place vos propres programmes d'apprentissage non supervisés 
 2. Exposer ses modèles sous forme d'une API 
