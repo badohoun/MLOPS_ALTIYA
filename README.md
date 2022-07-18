@@ -1,4 +1,4 @@
-# Exposer un modèle ML d'apprentissage non supervisé sous forme d'API 
+# Exposer un modèle  d'apprentissage non supervisé sous forme d'API 
 
 
 
